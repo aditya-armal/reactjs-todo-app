@@ -44,7 +44,7 @@ Before getting started with this project, you should have:
 1. Clone this repository to your local machine:
 
 ```bash
-  git clone https://github.com/aditya-armal/react-todo-app.git
+  git clone https://github.com/aditya-armal/reactjs-todo-app.git
 ```
 Navigate to the project directory:
 
