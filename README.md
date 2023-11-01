@@ -1,7 +1,11 @@
 ![React Todo App](./banner.png)
-# React Todo App
+
+# React Todo App [![Todo-App - Live](https://img.shields.io/badge/Todo--App-Live-2ea44f?style=for-the-badge&logo=react&logoColor=white)](https://adityaarmal-todo-app.vercel.app/)
 
 A complete Todo application with all features, created with ❤️ by Aditya Armal.
+
+## Live Demo
+You can explore the **live demo** of this Todo App by visiting https://adityaarmal-todo-app.vercel.app/
 
 ## Project Description
 
@@ -62,8 +66,3 @@ Start the development server:
 npm start
 ```
 Open your web browser and visit http://localhost:3000 to access the Todo App.
-
-Live Demo
-You can explore the live demo of this Todo App by visiting below link.
-
-![Todo App]()
