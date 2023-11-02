@@ -13,12 +13,12 @@ In this project, we have built a comprehensive Todo Application that includes al
 
 ## What I Learnt/Used
 
-- **React**: The core library for building the user interface.
-- **React Redux**: Utilized for state management.
-- **Framer Motion**: Used to create simple animations for a more engaging user experience.
-- **React icons**: For adding icons to the application.
-- **React Hot Toast**: A library for displaying toasts and notifications in React applications.
-- **uuid**: A library for generating universally unique identifiers.
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) : The core library for building the user interface.
+- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) : Utilized for state management.
+- ![Framer - Motion](https://img.shields.io/badge/Framer-Motion-Black?style=for-the-badge&logo=Framer&logoColor=White) : Used to create simple animations for a more engaging user experience.
+- ![React - Icons](https://img.shields.io/badge/React-Icons-Black?style=for-the-badge&logo=react&logoColor=White) : For adding icons to the application.
+- ![React - Hot Toast](https://img.shields.io/badge/React-Hot_Toast-Black?style=for-the-badge&logo=react&logoColor=White) : A library for displaying toasts and notifications in React applications.
+- [![npm - uuid](https://img.shields.io/badge/npm-uuid-2ea44f?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/uuid) : A library for generating universally unique identifiers.
 
 ## Tools Used
 
