@@ -51,6 +51,7 @@ export const todoSlice = createSlice({
       const todoList = window.localStorage.getItem('todoList');
       if (todoList) {
         const todoListArr = JSON.parse(todoList);
+        // eslint-disable-next-line no-unused-vars
         todoListArr.forEach((todo, index) => {
           if (todo.id === action.payload.id) {
             todo.status = action.payload.status;
