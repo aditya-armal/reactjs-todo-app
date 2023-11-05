@@ -1,6 +1,6 @@
 ![React Todo App](./banner.png)
 
-# React Todo App [![Todo-App - Live](https://img.shields.io/badge/Todo--App-Live-2ea44f?style=for-the-badge&logo=react&logoColor=white)](https://adityaarmal-todo-app.vercel.app/)
+# React Todo App [![Node.js CI](https://github.com/Aditya-Armal/reactjs-todo-app/actions/workflows/node.js.yml/badge.svg)](https://github.com/Aditya-Armal/reactjs-todo-app/actions/workflows/node.js.yml)
 
 A complete Todo application with all features, created with ❤️ by Aditya Armal.
 
